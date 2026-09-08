@@ -2,3 +2,10 @@ site_name: 香港结婚证样本与制作工艺拆解大全
 theme:
   name: material
   custom_dir: overrides
+
+nav:
+  - 首页大纲: index.md
+  - 物理材质层(丝状图案): page1.md
+  - 框架排版层(官方表格): page2.md
+  - 光学防伪层(灰黑暗印): page3.md
+  - 成品样本层(最终效果): page4.md
